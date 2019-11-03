@@ -1,7 +1,7 @@
 # Java Debugging for Coding Class with Mavi
 
 Debugging exercises from the book ["Java Programming" 9th Edition (Cengage) by Joyce Farrell ](https://www.cengage.com/c/java-programming-9e-farrell/9781337397070)
-
+<img src="https://i.imgur.com/eSxXpMM.jpg" width="300"/>
 
 These exercises have *syntactical errors* and *functional mistakes* (the latter of which the author somewhat confusingly calls *logical errors*). 
 
